@@ -6,6 +6,10 @@
   
   > 이산수학 [[소스 파일](https://github.com/taehyundev/Discrete-Mathematics-Coding/tree/master/Source(%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C))]
 
+
+2020년 1학기 기말 알고리즘파트중요
+
+
 * 추가내용
 
   > 그래프 - 오일러,해밀턴, 최단경로, 그래프색채
